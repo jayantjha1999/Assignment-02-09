@@ -1,0 +1,15 @@
+Q4)Answer-
+
+#Tag:
+
+A tag is a keyword or identifier used in HTML to define an element. It consists of an opening tag, content, and a closing tag.
+Tags are enclosed in angle brackets (<>). HTML tags are case-insensitive, meaning you can use uppercase or lowercase letters.
+
+EX:-<p>This is a paragraph tag.</p>
+
+#Element:
+
+An element is the combination of an opening tag, content, and a closing tag. It represents a structural component or piece of content on a web page. 
+An element can be as simple as a paragraph or as complex as an entire section with nested elements.
+
+EX:-<h2>This is a heading element.</h2>

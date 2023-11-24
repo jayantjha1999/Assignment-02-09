@@ -1,0 +1,8 @@
+Q2)Answer-
+In HTML, comments are used to include non-executable notes or annotations within the code. 
+Comments are not displayed in the web browser when the HTML document is rendered; instead,
+they are meant for developers to provide explanations, reminders, or additional context about the code. 
+Comments are essential for making code more readable, maintaining it over time,and facilitating collaboration among developers.
+
+Example-
+<!-- This is a comment in HTML -->

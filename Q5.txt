@@ -1,0 +1,8 @@
+Q5)Answer-
+
+#!DOCTYPE
+The DOCTYPE declaration in HTML, often referred to as simply the "doctype," is a special instruction that defines the type and version of the HTML document. 
+It appears at the very beginning of an HTML document, before the <html> tag. 
+The purpose of the doctype declaration is to provide information to the browser or parser about the version of HTML or XML being used in the document.
+
+Example:-<!DOCTYPE html>
